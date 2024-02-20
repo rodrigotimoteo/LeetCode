@@ -3,12 +3,12 @@
 ## Purpose
 This repository contains my solutions to various LeetCode problems. Each problem solution is implemented in a separate folder containing a solution for a specific programming language.
 
-/
-├── problemNumber
-├──── language_solution
-├── ...
-├──── ...
-└── README.md
+/ <br>
+├── problemNumber <br>
+├──── language_solution <br>
+├── ... <br>
+├──── ... <br>
+└── README.md <br>
 
 ## Usage
 

@@ -1,4 +1,4 @@
-class Solution {
+class Solution1662 {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
 	return getString(word1).equals(getString(word2));
     }

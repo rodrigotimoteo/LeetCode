@@ -1,4 +1,4 @@
-class Solution {
+class Solution1160 {
     public int countCharacters(String[] words, String chars) {
         int count = 0;
 

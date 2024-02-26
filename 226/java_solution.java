@@ -14,6 +14,11 @@
  * }
  */
 class Solution226 {
+    private class TreeNode {
+        TreeNode left = new TreeNode();
+        TreeNode right = new TreeNode();
+    }
+
     public TreeNode invertTree(TreeNode root) {
         if(root == null) return root;
         
